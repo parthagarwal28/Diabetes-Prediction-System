@@ -7,13 +7,13 @@ Given a dataset containing health records of individuals (some features of a per
 Goal is to create a Binary Classification Model that predicts a person to be diabetic or non diabetic with given necessary features.
 <br><br>
 <div align="center">Features Selected (Independent Variables):</div>
-• gender: indicating male or female.
-• age: Age of the individual
-• hypertension: Indicator of whether the person has hypertension (0 or 1).
-• heart_disease: Indicator of whether the person has a heart disease (0 or 1).
-• bmi: Body Mass Index of individual
-• HbA1c_level: Average blood sugar level
-• blood_glucose_level: Recent blood glucose level.
+• gender: indicating male or female.<br>
+• age: Age of the individual.<br>
+• hypertension: Indicator of whether the person has hypertension (0 or 1).<br>
+• heart_disease: Indicator of whether the person has a heart disease (0 or 1).<br>
+• bmi: Body Mass Index of individual.<br>
+• HbA1c_level: Average blood sugar level.<br>
+• blood_glucose_level: Recent blood glucose level.<br>
 <br><br>
 
 <div align="center">Target (Dependent Variable):</div>
